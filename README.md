@@ -27,8 +27,10 @@ A simple **RESTful API** built with **Node.js and Express** that provides CRUD (
 npm install
 
 **Configure Environment Variables**
-**PORT=4000**
-**MONGO_URI=your_mongodb_connection_string**
+
+PORT=4000
+
+MONGO_URI=your_mongodb_connection_string
 
 **Start the Server**
 npm run dev
